@@ -4,6 +4,12 @@ import glob
 sessions_dir = 'sessions'
 output_file = 'index.md'
 
+# Get GitHub repository information from environment variables
+github_repository = os.environ.get('GITHUB_REPOSITORY', 'username/repository').split('/')
+owner = github_repository[0]
+repo = github_repository[1]
+branch = os.environ.get('GITHUB_REF', 'refs/heads/main').split('/')[-1]
+
 template = """# My Video Sessions
 
 <!-- AUTO_GENERATED_START -->
@@ -30,8 +36,10 @@ for session in sessions:
     if os.path.exists(files_dir):
         for file in os.listdir(files_dir):
             if os.path.isfile(os.path.join(files_dir, file)):
-                file_path = os.path.join(sessions_dir, session, 'files', file)
-                files.append(f'[{file}]({file_path})')
+                # Build raw GitHub URL
+                file_path = os.path.join('sessions', session, 'files', file).replace('\\', '/')
+                raw_url = f'https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{file_path}'
+                files.append(f'[{file}]({raw_url})')
 
     file_links = ' | '.join(files)
     entries.append(f"### {title}\n- [Watch Video]({video_url})\n- Downloads: {file_links}\n")

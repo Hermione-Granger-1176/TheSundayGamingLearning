@@ -136,4 +136,6 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/i_sEdHaCvp8)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/19-Think Your Excel Formulas Are Right Check Again Part 2/Files.zip)
+
 ---

@@ -77,3 +77,9 @@
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/10-Why I Love Records in Power Query/Files.zip)
 
 ---
+
+## 🎬 Turning Lambdas into Robot Commands with OA Robot
+
+📺 Watch: [YouTube Link](https://youtu.be/orFrDP3ryGw)
+
+---

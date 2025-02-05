@@ -6,6 +6,18 @@ def get_session_number(folder_name):
     match = re.match(r'^(\d+)-', folder_name)
     return int(match.group(1)) if match else 0
 
+def parse_urls(urls_file):
+    """Parse URLs with titles from urls.txt"""
+    urls = []
+    if os.path.exists(urls_file):
+        with open(urls_file) as f:
+            for line in f:
+                line = line.strip()
+                if ':' in line:
+                    title, url = line.split(':', 1)
+                    urls.append((title.strip(), url.strip()))
+    return urls
+
 def generate_site():
     sessions_dir = 'sessions'
     output = ["# 📺 Video Sessions\n\n"]
@@ -44,11 +56,10 @@ def generate_site():
         
         # Add additional URLs if exists
         urls_file = os.path.join(path, 'urls.txt')
-        if os.path.exists(urls_file):
-            urls = [u.strip() for u in open(urls_file) if u.strip()]
-            if urls:
-                entry.append("🔗 Additional Resources:")
-                entry.extend([f"- {url}" for url in urls])
+        titled_urls = parse_urls(urls_file)
+        if titled_urls:
+            entry.append("🔗 Additional Resources:")
+            entry.extend([f"- [{title}]({url})" for title, url in titled_urls])
         
         output.append("\n\n".join(entry) + "\n\n---")
     

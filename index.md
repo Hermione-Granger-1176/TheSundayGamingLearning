@@ -48,7 +48,7 @@
 
 🔗 Additional Resources:
 
-- [https](//www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7209298915345539073/)
+- [Challenge Link](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7209298915345539073/)
 
 ---
 

@@ -74,4 +74,6 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/sKWNW5CRbTk)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/10-Why I Love Records in Power Query/Files.zip)
+
 ---

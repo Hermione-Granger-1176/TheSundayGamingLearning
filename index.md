@@ -112,4 +112,6 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/UY9WTPxwbD8)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/16-Getting Hyper with Hyperlinks/Files.zip)
+
 ---

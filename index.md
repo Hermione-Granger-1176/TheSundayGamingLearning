@@ -24,4 +24,6 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/EHo-Jsqv7CA)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/03-The Power of Optional Parameters in Power Query/Files.zip)
+
 ---

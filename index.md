@@ -44,4 +44,6 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/9jNV5JbhBwo)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/06-List TransformMany Function in Power Query/Files.zip)
+
 ---

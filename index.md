@@ -139,3 +139,9 @@
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/19-Think Your Excel Formulas Are Right Check Again Part 2/Files.zip)
 
 ---
+
+## 🎬 How did I Learn Excel
+
+📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)
+
+---

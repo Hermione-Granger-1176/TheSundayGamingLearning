@@ -104,4 +104,6 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/cTGRc65d-v0)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/15-The Power of Rich Data Types and STOCKHISTORY Function/Files.zip)
+
 ---

@@ -47,3 +47,9 @@
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/06-List TransformMany Function in Power Query/Files.zip)
 
 ---
+
+## 🎬 Fun with FMWC Challenges and Lambdas
+
+📺 Watch: [YouTube Link](https://youtu.be/pCAQHP-RAgg)
+
+---

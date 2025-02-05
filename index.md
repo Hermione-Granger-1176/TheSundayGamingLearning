@@ -128,4 +128,6 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/zKH-uf_STFs)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/18-Think Your Excel Formulas Are Right Check Again Part 1/Files.zip)
+
 ---

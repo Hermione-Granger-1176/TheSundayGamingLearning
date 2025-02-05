@@ -155,9 +155,3 @@
 📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)
 
 ---
-
-## 🎬 AdityaTest
-
-📺 Watch: [YouTube Link](https://youtu.be/fmerNFT5LD0)
-
----

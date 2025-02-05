@@ -120,4 +120,6 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/-Vx_S8hkD8A)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/17-What the Heck is Inside My each _ in Power Query/Files.zip)
+
 ---

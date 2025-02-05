@@ -19,3 +19,9 @@
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/02-Conquering Brackets in Power Query/Files.zip)
 
 ---
+
+## 🎬 The Power of Optional Parameters in Power Query
+
+📺 Watch: [YouTube Link](https://youtu.be/EHo-Jsqv7CA)
+
+---

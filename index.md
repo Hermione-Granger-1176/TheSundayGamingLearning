@@ -155,9 +155,3 @@
 📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)
 
 ---
-
-## 🎬 Aditya
-
-📺 Watch: [YouTube Link](https://youtu.be/cjWUVcHwDhQ)
-
----

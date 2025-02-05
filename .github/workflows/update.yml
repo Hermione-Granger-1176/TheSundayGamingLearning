@@ -7,12 +7,10 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v3
-      with:
-        persist-credentials: false
-
+    - uses: actions/checkout@v4  # Updated from v3
+    
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5  # Updated from v4
       with:
         python-version: '3.x'
         
@@ -23,6 +21,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git add index.md
         git commit -m "Auto-update content" || echo "No changes"
         git push

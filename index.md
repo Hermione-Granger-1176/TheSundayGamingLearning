@@ -8,7 +8,7 @@
 
 🔗 Additional Resources:
 
-- [https](//docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg)
+- [Document Link](https://docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg)
 
 ---
 

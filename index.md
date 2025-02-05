@@ -1,5 +1,9 @@
-# My Video Sessions
+# 📺 Video Sessions
 
-<!-- AUTO_GENERATED_START -->
 
-<!-- AUTO_GENERATED_END -->
+
+## 🎬 How I Learn Excel, Power Query, or Just About Anything
+
+📺 Watch: [YouTube Link](https://youtu.be/FmNxkwgs8lw)
+
+---

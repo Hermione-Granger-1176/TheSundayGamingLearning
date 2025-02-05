@@ -91,3 +91,9 @@
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/13-Why Do I Save Before I Create in Excel/Files.zip)
 
 ---
+
+## 🎬 Text Manipulation with Splitters and Combiners in Power Query
+
+📺 Watch: [YouTube Link](https://youtu.be/BR3PAUcojNA)
+
+---

@@ -96,4 +96,6 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/BR3PAUcojNA)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/14-Text Manipulation with Splitters and Combiners in Power Query/Files.zip)
+
 ---

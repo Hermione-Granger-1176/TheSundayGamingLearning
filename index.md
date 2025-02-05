@@ -115,3 +115,9 @@
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/16-Getting Hyper with Hyperlinks/Files.zip)
 
 ---
+
+## 🎬 What the Heck is Inside My each _ in Power Query
+
+📺 Watch: [YouTube Link](https://youtu.be/-Vx_S8hkD8A)
+
+---

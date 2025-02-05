@@ -8,7 +8,7 @@
 
 🔗 Additional Resources:
 
-- https://docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg
+- [https](//docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg)
 
 ---
 
@@ -48,7 +48,7 @@
 
 🔗 Additional Resources:
 
-- https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7209298915345539073/
+- [https](//www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7209298915345539073/)
 
 ---
 

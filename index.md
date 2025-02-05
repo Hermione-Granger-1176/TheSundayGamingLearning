@@ -53,3 +53,9 @@
 📺 Watch: [YouTube Link](https://youtu.be/pCAQHP-RAgg)
 
 ---
+
+## 🎬 Unleash the Magic of LAMBDA Function in Excel Session 1
+
+📺 Watch: [YouTube Link](https://youtu.be/v1BhR1B6GVY)
+
+---

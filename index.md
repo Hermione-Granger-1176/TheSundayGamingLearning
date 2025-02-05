@@ -144,12 +144,6 @@
 
 ---
 
-## 🎬 My Future Planning for The Sunday Gaming Learning
-
-📺 Watch: [YouTube Link](https://youtu.be/fmerNFT5LD0)
-
----
-
 ## 🎬 How did I Learn Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)

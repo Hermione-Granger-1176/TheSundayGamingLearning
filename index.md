@@ -61,3 +61,11 @@
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/08-Unleash the Magic of LAMBDA Function in Excel Session 1/Files.zip)
 
 ---
+
+## 🎬 Unleash the Magic of LAMBDA Function in Excel Session 2
+
+📺 Watch: [YouTube Link](https://youtu.be/I8c3OJRm9n4)
+
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/09-Unleash the Magic of LAMBDA Function in Excel Session 2/Files.zip)
+
+---

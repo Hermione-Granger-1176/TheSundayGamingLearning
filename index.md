@@ -33,3 +33,9 @@
 📺 Watch: [YouTube Link](https://youtu.be/Djvooo0PKko)
 
 ---
+
+## 🎬 AI as Your Future Power Query (M) Coding Partner
+
+📺 Watch: [YouTube Link](https://youtu.be/KUZIFM4DnpY)
+
+---

@@ -11,3 +11,9 @@
 - https://docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg
 
 ---
+
+## 🎬 Conquering Brackets in Power Query
+
+📺 Watch: [YouTube Link](https://youtu.be/KrNAjRrfxrI)
+
+---

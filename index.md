@@ -6,4 +6,8 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/FmNxkwgs8lw)
 
+🔗 Additional Resources:
+
+- https://docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg
+
 ---

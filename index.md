@@ -39,3 +39,9 @@
 📺 Watch: [YouTube Link](https://youtu.be/KUZIFM4DnpY)
 
 ---
+
+## 🎬 List TransformMany Function in Power Query
+
+📺 Watch: [YouTube Link](https://youtu.be/9jNV5JbhBwo)
+
+---

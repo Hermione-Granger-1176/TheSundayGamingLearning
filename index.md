@@ -159,3 +159,9 @@
 📺 Watch: [YouTube Link](https://youtu.be/xcQgUnSFfY8)
 
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/21-50 Never Seen Tips and Tricks in Excel/Files.zip)
+
+---
+
+## 🎬 Dealing with APIs in Power Query for Data Collection
+
+📺 Watch: [YouTube Link](https://youtu.be/Cf9BY4qGh3w)

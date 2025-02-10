@@ -151,3 +151,11 @@
 ## 🎬 How did I Learn Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)
+
+---
+
+## 🎬 50 Never Seen Tips and Tricks in Excel
+
+📺 Watch: [YouTube Link](https://youtu.be/xcQgUnSFfY8)
+
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/21-50 Never Seen Tips and Tricks in Excel/Files.zip)

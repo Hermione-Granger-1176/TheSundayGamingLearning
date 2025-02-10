@@ -1,71 +1,61 @@
-import os
+from pathlib import Path
 import re
-
-def get_session_number(folder_name):
-    """Extract number from folder name like '01-Session Name'"""
-    match = re.match(r'^(\d+)-', folder_name)
-    return int(match.group(1)) if match else 0
-
-def parse_urls(urls_file):
-    """Parse URLs with titles from urls.txt"""
-    urls = []
-    if os.path.exists(urls_file):
-        with open(urls_file) as f:
-            for line in f:
-                line = line.strip()
-                if ':' in line:
-                    title, url = line.split(':', 1)
-                    urls.append((title.strip(), url.strip()))
-    return urls
+import os
 
 def generate_site():
-    sessions_dir = 'sessions'
-    output = ["# 📺 Video Sessions\n\n"]
+    """Generate markdown index from structured session folders"""
     
-    # Get all session folders
-    folders = [d for d in os.listdir(sessions_dir) 
-               if os.path.isdir(os.path.join(sessions_dir, d))]
+    # 1. Directory setup using pathlib for modern path handling
+    sessions_dir = Path('sessions')
+    output_header = "# 📺 Video Sessions\n\n"
     
-    # Sort by extracted number
-    folders.sort(key=get_session_number)
+    # 2. Process folders in sorted order using numerical prefix
+    processed_entries = [
+        '\n\n'.join(process_folder(folder))
+        for folder in sorted(
+            filter(Path.is_dir, sessions_dir.iterdir()),
+            key=lambda p: int(re.search(r'^(\d+)', p.name).group(1) or 0)
+        )
+        if (folder/'video.txt').exists()  # Only process folders with video files
+    ]
+
+    # 3. Combine all entries with separators
+    Path('index.md').write_text(
+        output_header + '\n\n---\n\n'.join(processed_entries)
+    )
+
+def process_folder(folder: Path) -> list[str]:
+    """Transform folder contents into markdown components"""
     
-    for folder in folders:
-        path = os.path.join(sessions_dir, folder)
-        
-        # Get session title (remove number prefix)
-        title = re.sub(r'^\d+-', '', folder).replace('-', ' ')
-        
-        # Get video URL
-        video_file = os.path.join(path, 'video.txt')
-        if os.path.exists(video_file):
-            video_url = open(video_file).read().strip()
-        else:
-            continue  # Skip if no video URL
-        
-        # Start building entry
-        entry = [
-            f"## 🎬 {title}",
-            f"📺 Watch: [YouTube Link]({video_url})"
-        ]
-        
-        # Add ZIP file if exists
-        zip_path = os.path.join(path, 'Files.zip')
-        if os.path.exists(zip_path):
-            raw_url = f"https://raw.githubusercontent.com/{os.environ['GITHUB_REPOSITORY']}/main/{zip_path}"
-            entry.append(f"📥 Download: [Session Materials]({raw_url})")
-        
-        # Add additional URLs if exists
-        urls_file = os.path.join(path, 'urls.txt')
-        titled_urls = parse_urls(urls_file)
-        if titled_urls:
-            entry.append("🔗 Additional Resources:")
-            entry.extend([f"- [{title}]({url})" for title, url in titled_urls])
-        
-        output.append("\n\n".join(entry) + "\n\n---")
+    # 1. Clean title from folder name
+    title = re.sub(r'^\d+-', '', folder.name).replace('-', ' ')
     
-    # Write final content
-    with open('index.md', 'w') as f:
-        f.write("\n\n".join(output))
+    # 2. Core video link component
+    components = [
+        f"## 🎬 {title}",
+        f"📺 Watch: [YouTube Link]({(folder/'video.txt').read_text().strip()})"
+    ]
+    
+    # 3. Conditional ZIP file inclusion using walrus operator
+    if (zip_file := folder/'Files.zip').exists():
+        components.append(
+            f"📥 Download: [Session Materials]"
+            f"(https://raw.githubusercontent.com/{os.environ['GITHUB_REPOSITORY']}/main/{zip_file})"
+        )
+    
+    # 4. Process URLs with generator expression
+    if (urls_file := folder/'urls.txt').exists():
+        components.extend([
+            "🔗 Additional Resources:",
+            *(
+                f"- [{t}]({u})" 
+                for t, u in (line.strip().split(':', 1) 
+                            for line in urls_file.read_text().splitlines() 
+                            if ':' in line)
+            )
+        ])
+    
+    return components
 
 if __name__ == "__main__":
     generate_site()

@@ -1,14 +1,12 @@
 # 📺 Video Sessions
 
-
-
 ## 🎬 How I Learn Excel, Power Query, or Just About Anything
 
 📺 Watch: [YouTube Link](https://youtu.be/FmNxkwgs8lw)
 
 🔗 Additional Resources:
 
-- [Document Link](https://docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg)
+- [Document Link]( https://docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg)
 
 ---
 
@@ -48,7 +46,7 @@
 
 🔗 Additional Resources:
 
-- [Challenge Link](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7209298915345539073/)
+- [Challenge Link]( https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7209298915345539073/)
 
 ---
 
@@ -153,5 +151,3 @@
 ## 🎬 How did I Learn Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)
-
----

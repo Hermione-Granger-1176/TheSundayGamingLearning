@@ -165,3 +165,13 @@
 ## 🎬 Dealing with APIs in Power Query for Data Collection
 
 📺 Watch: [YouTube Link](https://youtu.be/Cf9BY4qGh3w)
+
+🔗 Additional Resources:
+
+- [What is an API?]( https://www.ibm.com/think/topics/api)
+
+- [What is a REST API?]( https://www.ibm.com/think/topics/rest-apis)
+
+- [Power Query Support]( https://learn.microsoft.com/en-us/power-query/connectors/web/web?wt.mc_id=MVP_415513)
+
+- [Web.Contents]( https://learn.microsoft.com/en-us/powerquery-m/web-contents?wt.mc_id=MVP_415513)

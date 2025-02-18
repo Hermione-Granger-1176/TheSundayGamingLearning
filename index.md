@@ -175,3 +175,9 @@
 - [Power Query Support]( https://learn.microsoft.com/en-us/power-query/connectors/web/web?wt.mc_id=MVP_415513)
 
 - [Web.Contents]( https://learn.microsoft.com/en-us/powerquery-m/web-contents?wt.mc_id=MVP_415513)
+
+---
+
+## 🎬 So Much to Learn, So Little Time   What to Focus On
+
+📺 Watch: [YouTube Link](https://youtu.be/0RWGLpDWt7w)

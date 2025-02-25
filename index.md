@@ -181,3 +181,9 @@
 ## 🎬 So Much to Learn, So Little Time   What to Focus On
 
 📺 Watch: [YouTube Link](https://youtu.be/0RWGLpDWt7w)
+
+---
+
+## 🎬 The Power of the FILTER Function in Excel
+
+📺 Watch: [YouTube Link](https://youtu.be/xoLerkdYIQo)

@@ -187,3 +187,5 @@
 ## 🎬 The Power of the FILTER Function in Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/xoLerkdYIQo)
+
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/24-The Power of the FILTER Function in Excel/Files.zip)

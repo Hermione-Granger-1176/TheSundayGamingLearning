@@ -1,49 +1,61 @@
-name: Update Content
-on:
-  push:
-    paths:
-      - 'sessions/**'
-      - 'scripts/**'
-      - '.github/workflows/update.yml'
-  schedule:
-    - cron: '0 0 * * 0'  # Run weekly on Sundays
-  workflow_dispatch:  # Allow manual trigger
+from pathlib import Path
+import re
+import os
 
-jobs:
-  generate-content:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0  # Fetch all history for better caching
+def generate_site():
+    """Generate markdown index from structured session folders"""
+    
+    # 1. Directory setup using pathlib for modern path handling
+    sessions_dir = Path('sessions')
+    output_header = "# 📺 Video Sessions\n\n"
+    
+    # 2. Process folders in sorted order using numerical prefix
+    processed_entries = [
+        '\n\n'.join(process_folder(folder))
+        for folder in sorted(
+            filter(Path.is_dir, sessions_dir.iterdir()),
+            key=lambda p: int(re.search(r'^(\d+)', p.name).group(1) or 0)
+        )
+        if (folder/'video.txt').exists()  # Only process folders with video files
+    ]
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-        
-    - name: Cache session data
-      uses: actions/cache@v3
-      with:
-        path: .cache
-        key: ${{ runner.os }}-session-cache-${{ hashFiles('sessions/**') }}
-        restore-keys: |
-          ${{ runner.os }}-session-cache-
-        
-    - name: Generate site
-      run: python scripts/generate_sessions.py
-      env:
-        GITHUB_REPOSITORY: ${{ github.repository }}
-        PYTHONUNBUFFERED: 1
-        
-    - name: Commit changes
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-        git add index.md
-        git diff --staged --quiet || git commit -m "Auto-update content [skip ci]"
-        git push
+    # 3. Combine all entries with separators
+    Path('index.md').write_text(
+        output_header + '\n\n---\n\n'.join(processed_entries)
+    )
+
+def process_folder(folder: Path) -> list[str]:
+    """Transform folder contents into markdown components"""
+    
+    # 1. Clean title from folder name
+    title = re.sub(r'^\d+-', '', folder.name).replace('-', ' ')
+    
+    # 2. Core video link component
+    components = [
+        f"## 🎬 {title}",
+        f"📺 Watch: [YouTube Link]({(folder/'video.txt').read_text().strip()})"
+    ]
+    
+    # 3. Conditional ZIP file inclusion using walrus operator
+    if (zip_file := folder/'Files.zip').exists():
+        components.append(
+            f"📥 Download: [Session Materials]"
+            f"(https://raw.githubusercontent.com/{os.environ['GITHUB_REPOSITORY']}/main/{zip_file})"
+        )
+    
+    # 4. Process URLs with generator expression
+    if (urls_file := folder/'urls.txt').exists():
+        components.extend([
+            "🔗 Additional Resources:",
+            *(
+                f"- [{t}]({u})" 
+                for t, u in (line.strip().split(':', 1) 
+                            for line in urls_file.read_text().splitlines() 
+                            if ':' in line)
+            )
+        ])
+    
+    return components
+
+if __name__ == "__main__":
+    generate_site()

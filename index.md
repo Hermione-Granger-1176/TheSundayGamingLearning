@@ -195,3 +195,9 @@
 ## 🎬 Members Sharing Experiences Part 2
 
 📺 Watch: [YouTube Link](https://youtu.be/xzkviPhFSP0)
+
+---
+
+## 🎬 30 Exciting Features in the Last Decade in Excel
+
+📺 Watch: [YouTube Link](https://youtu.be/qimzamlXB-8)

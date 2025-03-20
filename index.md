@@ -201,3 +201,9 @@
 ## 🎬 30 Exciting Features in the Last Decade in Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/qimzamlXB-8)
+
+---
+
+## 🎬 Tired of Merging Excel Files Manually? Automate It Now!
+
+📺 Watch: [YouTube Link](https://youtu.be/DK0SjoeiFlo)

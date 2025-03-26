@@ -209,3 +209,9 @@
 📺 Watch: [YouTube Link](https://youtu.be/DK0SjoeiFlo)
 
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/27-Tired of Merging Excel Files Manually? Automate It Now!/Files.zip)
+
+---
+
+## 🎬 Am I Already Behind Just Because Excel Dropped a New Feature
+
+📺 Watch: [YouTube Link](https://youtu.be/qT8-y5ZllfM)

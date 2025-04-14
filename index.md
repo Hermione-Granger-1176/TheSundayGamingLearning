@@ -229,3 +229,5 @@
 ## 🎬 How I Transitioned from Excel to Power Query
 
 📺 Watch: [YouTube Link](https://youtu.be/iLgtulGKY44)
+
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/30-How I Transitioned from Excel to Power Query/Files.zip)

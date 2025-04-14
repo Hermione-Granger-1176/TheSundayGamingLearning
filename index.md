@@ -221,3 +221,5 @@
 ## 🎬 Similarities between Excel and Power Query
 
 📺 Watch: [YouTube Link](https://youtu.be/FVWVinG_4Lw)
+
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/29-Similarities between Excel and Power Query/Files.zip)

@@ -215,3 +215,9 @@
 ## 🎬 Am I Already Behind Just Because Excel Dropped a New Feature
 
 📺 Watch: [YouTube Link](https://youtu.be/qT8-y5ZllfM)
+
+---
+
+## 🎬 Similarities between Excel and Power Query
+
+📺 Watch: [YouTube Link](https://youtu.be/FVWVinG_4Lw)

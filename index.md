@@ -237,3 +237,5 @@
 ## 🎬 How to Get Totals with Conditions in Excel?
 
 📺 Watch: [YouTube Link](https://youtu.be/6T1t2J52Gds)
+
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/31-How to Get Totals with Conditions in Excel?/Files.zip)

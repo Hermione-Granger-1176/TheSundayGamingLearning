@@ -245,3 +245,5 @@
 ## 🎬 How to use AFE for Managing Lambdas?
 
 📺 Watch: [YouTube Link](https://youtu.be/xGuE-jHGoZw)
+
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/32-How to use AFE for Managing Lambdas?/Files.zip)

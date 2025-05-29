@@ -247,3 +247,9 @@
 📺 Watch: [YouTube Link](https://youtu.be/xGuE-jHGoZw)
 
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/32-How to use AFE for Managing Lambdas?/Files.zip)
+
+---
+
+## 🎬 Pivoting Data in Excel
+
+📺 Watch: [YouTube Link](https://youtu.be/ZP0u6aHuoHY)

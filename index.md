@@ -253,3 +253,17 @@
 ## 🎬 Pivoting Data in Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/ZP0u6aHuoHY)
+
+---
+
+## 🎬 What If Notes Could Train GPTs?
+
+📺 Watch: [YouTube Link](https://youtu.be/RUlm245rG_k)
+
+🔗 Additional Resources:
+
+- [Why Markdown Files are Important]( https://platform.openai.com/docs/guides/text?api-mode=responses#message-formatting-with-markdown-and-xml)
+
+- [Markdown Basic Writing and Formatting]( https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- [Obsidian Flavored Markdown]( https://help.obsidian.md/obsidian-flavored-markdown)

@@ -1,0 +1,3 @@
+Why Markdown Files are Important: https://platform.openai.com/docs/guides/text?api-mode=responses#message-formatting-with-markdown-and-xml
+Markdown Basic Writing and Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Obsidian Flavored Markdown: https://help.obsidian.md/obsidian-flavored-markdown

@@ -267,3 +267,9 @@
 - [Markdown Basic Writing and Formatting]( https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 - [Obsidian Flavored Markdown]( https://help.obsidian.md/obsidian-flavored-markdown)
+
+---
+
+## 🎬 How to Automate Things in Microsoft Word
+
+📺 Watch: [YouTube Link](https://youtu.be/T440POvFmBs)

@@ -142,15 +142,15 @@
 
 ---
 
-## 🎬 My Future Planning for The Sunday Gaming Learning
-
-📺 Watch: [YouTube Link](https://youtu.be/fmerNFT5LD0)
-
----
-
 ## 🎬 How did I Learn Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)
+
+---
+
+## 🎬 My Future Planning for The Sunday Gaming Learning
+
+📺 Watch: [YouTube Link](https://youtu.be/fmerNFT5LD0)
 
 ---
 
@@ -273,3 +273,17 @@
 ## 🎬 How to Automate Things in Microsoft Word
 
 📺 Watch: [YouTube Link](https://youtu.be/T440POvFmBs)
+
+---
+
+## 🎬 Python in Excel Basics
+
+📺 Watch: [YouTube Link](https://youtu.be/emYb580PUq0)
+
+🔗 Additional Resources:
+
+- [The Python Standard Library]( https://docs.python.org/3/library/index.html)
+
+- [Python Pands]( https://pandas.pydata.org/docs/reference/general_functions.html)
+
+- [Numpy Python]( https://numpy.org/doc/stable/reference/routines.math.html)

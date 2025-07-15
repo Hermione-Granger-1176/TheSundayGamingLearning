@@ -280,6 +280,8 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/emYb580PUq0)
 
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/38-Python in Excel Basics/Files.zip)
+
 🔗 Additional Resources:
 
 - [The Python Standard Library]( https://docs.python.org/3/library/index.html)

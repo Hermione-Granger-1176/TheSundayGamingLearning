@@ -289,3 +289,11 @@
 - [Python Pands]( https://pandas.pydata.org/docs/reference/general_functions.html)
 
 - [Numpy Python]( https://numpy.org/doc/stable/reference/routines.math.html)
+
+---
+
+## 🎬 Lists in Python
+
+📺 Watch: [YouTube Link](https://youtu.be/C-8qznsTkTY)
+
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/39-Lists in Python/Files.zip)

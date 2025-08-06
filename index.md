@@ -297,3 +297,9 @@
 📺 Watch: [YouTube Link](https://youtu.be/C-8qznsTkTY)
 
 📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/39-Lists in Python/Files.zip)
+
+---
+
+## 🎬 How Members are using AI and Automation
+
+📺 Watch: [YouTube Link](https://youtu.be/Tdl-IiY75w8)

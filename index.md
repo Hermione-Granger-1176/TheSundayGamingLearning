@@ -309,3 +309,9 @@
 ## 🎬 A Few Things that Every Manager should Know in Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/oPGu6RGIAkU)
+
+---
+
+## 🎬 96 Challenges Session 1
+
+📺 Watch: [YouTube Link](https://youtu.be/fzchZCwBSgk)

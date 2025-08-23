@@ -142,15 +142,15 @@
 
 ---
 
-## 🎬 How did I Learn Excel
-
-📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)
-
----
-
 ## 🎬 My Future Planning for The Sunday Gaming Learning
 
 📺 Watch: [YouTube Link](https://youtu.be/fmerNFT5LD0)
+
+---
+
+## 🎬 How did I Learn Excel
+
+📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)
 
 ---
 
@@ -303,3 +303,9 @@
 ## 🎬 How Members are using AI and Automation
 
 📺 Watch: [YouTube Link](https://youtu.be/Tdl-IiY75w8)
+
+---
+
+## 🎬 A Few Things that Every Manager should Know in Excel
+
+📺 Watch: [YouTube Link](https://youtu.be/oPGu6RGIAkU)

@@ -142,15 +142,15 @@
 
 ---
 
-## 🎬 My Future Planning for The Sunday Gaming Learning
-
-📺 Watch: [YouTube Link](https://youtu.be/fmerNFT5LD0)
-
----
-
 ## 🎬 How did I Learn Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/-gXvT2y4hII)
+
+---
+
+## 🎬 My Future Planning for The Sunday Gaming Learning
+
+📺 Watch: [YouTube Link](https://youtu.be/fmerNFT5LD0)
 
 ---
 
@@ -315,3 +315,15 @@
 ## 🎬 96 Challenges Session 1
 
 📺 Watch: [YouTube Link](https://youtu.be/fzchZCwBSgk)
+
+---
+
+## 🎬 96 Challenges Session 2
+
+📺 Watch: [YouTube Link](https://youtu.be/c9HWHrWEtqc)
+
+---
+
+## 🎬 96 Challenges Session 3
+
+📺 Watch: [YouTube Link](https://youtu.be/WNQtajlwrsg)

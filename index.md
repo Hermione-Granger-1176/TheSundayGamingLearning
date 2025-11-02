@@ -339,3 +339,21 @@
 ## 🎬 How to Handle Errors in Power Query
 
 📺 Watch: [YouTube Link](https://youtu.be/I0dMjThzIXw)
+
+---
+
+## 🎬 96 Challenges Session 5
+
+📺 Watch: [YouTube Link](https://youtu.be/JpysPD32VGI)
+
+---
+
+## 🎬 96 Challenges Session 6
+
+📺 Watch: [YouTube Link](https://youtu.be/dH1tjlnkwWY)
+
+---
+
+## 🎬 How to use Obsidian for Second Brain
+
+📺 Watch: [YouTube Link](https://youtu.be/DUW7_lB8H2Y)

@@ -357,3 +357,15 @@
 ## 🎬 How to use Obsidian for Second Brain
 
 📺 Watch: [YouTube Link](https://youtu.be/DUW7_lB8H2Y)
+
+---
+
+## 🎬 96 Challenges Session 7
+
+📺 Watch: [YouTube Link](https://youtu.be/PDs5hWc7ejM)
+
+---
+
+## 🎬 96 Challenges Session 8
+
+📺 Watch: [YouTube Link](https://youtu.be/bZUmj0HAGbA)

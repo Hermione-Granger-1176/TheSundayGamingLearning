@@ -369,3 +369,15 @@
 ## 🎬 96 Challenges Session 8
 
 📺 Watch: [YouTube Link](https://youtu.be/bZUmj0HAGbA)
+
+---
+
+## 🎬 96 Challenges Session 9
+
+📺 Watch: [YouTube Link](https://youtu.be/n0qddLICuxk)
+
+---
+
+## 🎬 How to solve Recursion & AI for Financial Modeling
+
+📺 Watch: [YouTube Link](https://youtu.be/j4DVEM7HTOg)

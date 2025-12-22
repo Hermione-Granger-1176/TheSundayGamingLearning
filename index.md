@@ -14,7 +14,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/KrNAjRrfxrI)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/02-Conquering Brackets in Power Query/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_2/Files.zip)
 
 ---
 
@@ -22,7 +22,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/EHo-Jsqv7CA)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/03-The Power of Optional Parameters in Power Query/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_3/Files.zip)
 
 ---
 
@@ -42,7 +42,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/9jNV5JbhBwo)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/06-List TransformMany Function in Power Query/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_6/Files.zip)
 
 🔗 Additional Resources:
 
@@ -60,7 +60,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/v1BhR1B6GVY)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/08-Unleash the Magic of LAMBDA Function in Excel Session 1/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_8/Files.zip)
 
 ---
 
@@ -68,7 +68,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/I8c3OJRm9n4)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/09-Unleash the Magic of LAMBDA Function in Excel Session 2/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_9/Files.zip)
 
 ---
 
@@ -76,7 +76,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/sKWNW5CRbTk)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/10-Why I Love Records in Power Query/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_10/Files.zip)
 
 ---
 
@@ -90,7 +90,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/sOAm2E05fUQ)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/13-Why Do I Save Before I Create in Excel/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_12/Files.zip)
 
 ---
 
@@ -98,7 +98,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/BR3PAUcojNA)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/14-Text Manipulation with Splitters and Combiners in Power Query/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_13/Files.zip)
 
 ---
 
@@ -106,7 +106,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/cTGRc65d-v0)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/15-The Power of Rich Data Types and STOCKHISTORY Function/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_14/Files.zip)
 
 ---
 
@@ -114,7 +114,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/UY9WTPxwbD8)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/16-Getting Hyper with Hyperlinks/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_15/Files.zip)
 
 ---
 
@@ -122,7 +122,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/-Vx_S8hkD8A)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/17-What the Heck is Inside My each _ in Power Query/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_16/Files.zip)
 
 ---
 
@@ -130,7 +130,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/zKH-uf_STFs)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/18-Think Your Excel Formulas Are Right Check Again Part 1/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_17/Files.zip)
 
 ---
 
@@ -138,13 +138,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/i_sEdHaCvp8)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/19-Think Your Excel Formulas Are Right Check Again Part 2/Files.zip)
-
----
-
-## 🎬 My Future Planning for The Sunday Gaming Learning
-
-📺 Watch: [YouTube Link](https://youtu.be/fmerNFT5LD0)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_18/Files.zip)
 
 ---
 
@@ -154,11 +148,17 @@
 
 ---
 
+## 🎬 My Future Planning for The Sunday Gaming Learning
+
+📺 Watch: [YouTube Link](https://youtu.be/fmerNFT5LD0)
+
+---
+
 ## 🎬 50 Never Seen Tips and Tricks in Excel
 
 📺 Watch: [YouTube Link](https://youtu.be/xcQgUnSFfY8)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/21-50 Never Seen Tips and Tricks in Excel/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_21/Files.zip)
 
 ---
 
@@ -188,7 +188,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/xoLerkdYIQo)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/24-The Power of the FILTER Function in Excel/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_24/Files.zip)
 
 ---
 
@@ -208,7 +208,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/DK0SjoeiFlo)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/27-Tired of Merging Excel Files Manually? Automate It Now!/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_27/Files.zip)
 
 ---
 
@@ -222,7 +222,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/FVWVinG_4Lw)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/29-Similarities between Excel and Power Query/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_29/Files.zip)
 
 ---
 
@@ -230,7 +230,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/iLgtulGKY44)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/30-How I Transitioned from Excel to Power Query/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_30/Files.zip)
 
 ---
 
@@ -238,7 +238,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/6T1t2J52Gds)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/31-How to Get Totals with Conditions in Excel?/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_31/Files.zip)
 
 ---
 
@@ -246,7 +246,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/xGuE-jHGoZw)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/32-How to use AFE for Managing Lambdas?/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_32/Files.zip)
 
 ---
 
@@ -280,13 +280,13 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/emYb580PUq0)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/38-Python in Excel Basics/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_36/Files.zip)
 
 🔗 Additional Resources:
 
 - [The Python Standard Library]( https://docs.python.org/3/library/index.html)
 
-- [Python Pands]( https://pandas.pydata.org/docs/reference/general_functions.html)
+- [Python Pandas]( https://pandas.pydata.org/docs/reference/general_functions.html)
 
 - [Numpy Python]( https://numpy.org/doc/stable/reference/routines.math.html)
 
@@ -296,7 +296,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/C-8qznsTkTY)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/39-Lists in Python/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_37/Files.zip)
 
 ---
 

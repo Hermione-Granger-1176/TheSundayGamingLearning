@@ -6,7 +6,7 @@
 
 🔗 Additional Resources:
 
-- [Document Link]( https://docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg)
+- [Document Link](https://docs.zoom.us/doc/ggZYScY6SlKotQ2Xgi45fg)
 
 ---
 
@@ -46,7 +46,7 @@
 
 🔗 Additional Resources:
 
-- [Challenge Link]( https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7209298915345539073/)
+- [Challenge Link](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7209298915345539073/)
 
 ---
 
@@ -168,13 +168,13 @@
 
 🔗 Additional Resources:
 
-- [What is an API?]( https://www.ibm.com/think/topics/api)
+- [What is an API?](https://www.ibm.com/think/topics/api)
 
-- [What is a REST API?]( https://www.ibm.com/think/topics/rest-apis)
+- [What is a REST API?](https://www.ibm.com/think/topics/rest-apis)
 
-- [Power Query Support]( https://learn.microsoft.com/en-us/power-query/connectors/web/web?wt.mc_id=MVP_415513)
+- [Power Query Support](https://learn.microsoft.com/en-us/power-query/connectors/web/web?wt.mc_id=MVP_415513)
 
-- [Web.Contents]( https://learn.microsoft.com/en-us/powerquery-m/web-contents?wt.mc_id=MVP_415513)
+- [Web.Contents](https://learn.microsoft.com/en-us/powerquery-m/web-contents?wt.mc_id=MVP_415513)
 
 ---
 
@@ -262,11 +262,11 @@
 
 🔗 Additional Resources:
 
-- [Why Markdown Files are Important]( https://platform.openai.com/docs/guides/text?api-mode=responses#message-formatting-with-markdown-and-xml)
+- [Why Markdown Files are Important](https://platform.openai.com/docs/guides/text?api-mode=responses#message-formatting-with-markdown-and-xml)
 
-- [Markdown Basic Writing and Formatting]( https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Markdown Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-- [Obsidian Flavored Markdown]( https://help.obsidian.md/obsidian-flavored-markdown)
+- [Obsidian Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown)
 
 ---
 
@@ -284,11 +284,11 @@
 
 🔗 Additional Resources:
 
-- [The Python Standard Library]( https://docs.python.org/3/library/index.html)
+- [The Python Standard Library](https://docs.python.org/3/library/index.html)
 
-- [Python Pandas]( https://pandas.pydata.org/docs/reference/general_functions.html)
+- [Python Pandas](https://pandas.pydata.org/docs/reference/general_functions.html)
 
-- [Numpy Python]( https://numpy.org/doc/stable/reference/routines.math.html)
+- [Numpy Python](https://numpy.org/doc/stable/reference/routines.math.html)
 
 ---
 

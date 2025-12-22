@@ -30,6 +30,43 @@ I regularly upload video sessions that cover various topics. Here are some of th
 ### Resource Links
 In addition to video sessions, the repository also includes links to useful resources and documents that complement the learning experience.
 
+## How to Update Sessions
+
+The repository automatically generates the `index.md` file from the session folders. To add or update sessions:
+
+### Adding a New Session
+
+1. Create a new folder in `sessions/` named `session_NNN` (e.g., `session_052`)
+2. Add the following files to the folder:
+   - **`video.txt`** (Required): Contains the YouTube video URL
+   - **`name.txt`** (Optional): Contains the session name with numeric prefix (e.g., `52-My Session Title`)
+   - **`urls.txt`** (Optional): Contains additional resource links in `Title: URL` format (one per line)
+   - **`Files.zip`** (Optional): Session materials for download
+
+3. Push the changes to the `main` branch - the workflow will automatically regenerate `index.md`
+
+### Updating an Existing Session
+
+To update any existing session, simply modify the files in its folder (e.g., `sessions/session_001/`) and push to `main`. The workflow will automatically detect changes in the `sessions/` directory and regenerate `index.md`.
+
+### File Formats
+
+**video.txt:**
+```
+https://youtu.be/your-video-id
+```
+
+**name.txt:**
+```
+01-Your Session Title Here
+```
+
+**urls.txt:**
+```
+Resource Name: https://example.com/resource
+Another Link: https://example.com/another
+```
+
 ## About Me
 
 ### Why Am I on This Planet Earth?

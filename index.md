@@ -286,7 +286,7 @@
 
 - [The Python Standard Library]( https://docs.python.org/3/library/index.html)
 
-- [Python Pands]( https://pandas.pydata.org/docs/reference/general_functions.html)
+- [Python Pandas]( https://pandas.pydata.org/docs/reference/general_functions.html)
 
 - [Numpy Python]( https://numpy.org/doc/stable/reference/routines.math.html)
 

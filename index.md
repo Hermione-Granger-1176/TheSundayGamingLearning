@@ -14,7 +14,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/KrNAjRrfxrI)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_2/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_002/Files.zip)
 
 ---
 
@@ -22,7 +22,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/EHo-Jsqv7CA)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_3/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_003/Files.zip)
 
 ---
 
@@ -42,7 +42,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/9jNV5JbhBwo)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_6/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_006/Files.zip)
 
 🔗 Additional Resources:
 
@@ -60,7 +60,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/v1BhR1B6GVY)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_8/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_008/Files.zip)
 
 ---
 
@@ -68,7 +68,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/I8c3OJRm9n4)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_9/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_009/Files.zip)
 
 ---
 
@@ -76,7 +76,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/sKWNW5CRbTk)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_10/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_010/Files.zip)
 
 ---
 
@@ -90,7 +90,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/sOAm2E05fUQ)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_12/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_012/Files.zip)
 
 ---
 
@@ -98,7 +98,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/BR3PAUcojNA)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_13/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_013/Files.zip)
 
 ---
 
@@ -106,7 +106,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/cTGRc65d-v0)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_14/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_014/Files.zip)
 
 ---
 
@@ -114,7 +114,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/UY9WTPxwbD8)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_15/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_015/Files.zip)
 
 ---
 
@@ -122,7 +122,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/-Vx_S8hkD8A)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_16/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_016/Files.zip)
 
 ---
 
@@ -130,7 +130,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/zKH-uf_STFs)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_17/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_017/Files.zip)
 
 ---
 
@@ -138,7 +138,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/i_sEdHaCvp8)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_18/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_018/Files.zip)
 
 ---
 
@@ -158,7 +158,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/xcQgUnSFfY8)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_21/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_021/Files.zip)
 
 ---
 
@@ -188,7 +188,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/xoLerkdYIQo)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_24/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_024/Files.zip)
 
 ---
 
@@ -208,7 +208,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/DK0SjoeiFlo)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_27/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_027/Files.zip)
 
 ---
 
@@ -222,7 +222,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/FVWVinG_4Lw)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_29/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_029/Files.zip)
 
 ---
 
@@ -230,7 +230,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/iLgtulGKY44)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_30/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_030/Files.zip)
 
 ---
 
@@ -238,7 +238,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/6T1t2J52Gds)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_31/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_031/Files.zip)
 
 ---
 
@@ -246,7 +246,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/xGuE-jHGoZw)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_32/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_032/Files.zip)
 
 ---
 
@@ -280,7 +280,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/emYb580PUq0)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_36/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_036/Files.zip)
 
 🔗 Additional Resources:
 
@@ -296,7 +296,7 @@
 
 📺 Watch: [YouTube Link](https://youtu.be/C-8qznsTkTY)
 
-📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_37/Files.zip)
+📥 Download: [Session Materials](https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_037/Files.zip)
 
 ---
 

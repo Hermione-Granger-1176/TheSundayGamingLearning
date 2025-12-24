@@ -1,1 +1,1 @@
-06-List TransformMany Function in Power Query
+6-List TransformMany Function in Power Query

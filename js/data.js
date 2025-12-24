@@ -87,56 +87,56 @@ window.SESSIONS_DATA = [
     "resources": []
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "Why Do I Save Before I Create in Excel",
     "video_url": "https://youtu.be/sOAm2E05fUQ",
     "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_012/Files.zip",
     "resources": []
   },
   {
-    "id": 14,
+    "id": 13,
     "title": "Text Manipulation with Splitters and Combiners in Power Query",
     "video_url": "https://youtu.be/BR3PAUcojNA",
     "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_013/Files.zip",
     "resources": []
   },
   {
-    "id": 15,
+    "id": 14,
     "title": "The Power of Rich Data Types and STOCKHISTORY Function",
     "video_url": "https://youtu.be/cTGRc65d-v0",
     "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_014/Files.zip",
     "resources": []
   },
   {
-    "id": 16,
+    "id": 15,
     "title": "Getting Hyper with Hyperlinks",
     "video_url": "https://youtu.be/UY9WTPxwbD8",
     "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_015/Files.zip",
     "resources": []
   },
   {
-    "id": 17,
+    "id": 16,
     "title": "What the Heck is Inside My each _ in Power Query",
     "video_url": "https://youtu.be/-Vx_S8hkD8A",
     "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_016/Files.zip",
     "resources": []
   },
   {
-    "id": 18,
+    "id": 17,
     "title": "Think Your Excel Formulas Are Right Check Again Part 1",
     "video_url": "https://youtu.be/zKH-uf_STFs",
     "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_017/Files.zip",
     "resources": []
   },
   {
-    "id": 19,
+    "id": 18,
     "title": "Think Your Excel Formulas Are Right Check Again Part 2",
     "video_url": "https://youtu.be/i_sEdHaCvp8",
     "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_018/Files.zip",
     "resources": []
   },
   {
-    "id": 20,
+    "id": 19,
     "title": "How did I Learn Excel",
     "video_url": "https://youtu.be/-gXvT2y4hII",
     "download_url": null,
@@ -182,7 +182,7 @@ window.SESSIONS_DATA = [
   },
   {
     "id": 23,
-    "title": "So Much to Learn, So Little Time   What to Focus On",
+    "title": "So Much to Learn, So Little Time - What to Focus On",
     "video_url": "https://youtu.be/0RWGLpDWt7w",
     "download_url": null,
     "resources": []
@@ -251,14 +251,14 @@ window.SESSIONS_DATA = [
     "resources": []
   },
   {
-    "id": 35,
+    "id": 33,
     "title": "Pivoting Data in Excel",
     "video_url": "https://youtu.be/ZP0u6aHuoHY",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 36,
+    "id": 34,
     "title": "What If Notes Could Train GPTs?",
     "video_url": "https://youtu.be/RUlm245rG_k",
     "download_url": null,
@@ -278,14 +278,14 @@ window.SESSIONS_DATA = [
     ]
   },
   {
-    "id": 37,
+    "id": 35,
     "title": "How to Automate Things in Microsoft Word",
     "video_url": "https://youtu.be/T440POvFmBs",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 38,
+    "id": 36,
     "title": "Python in Excel Basics",
     "video_url": "https://youtu.be/emYb580PUq0",
     "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_036/Files.zip",
@@ -305,105 +305,105 @@ window.SESSIONS_DATA = [
     ]
   },
   {
-    "id": 39,
+    "id": 37,
     "title": "Lists in Python",
     "video_url": "https://youtu.be/C-8qznsTkTY",
     "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_037/Files.zip",
     "resources": []
   },
   {
-    "id": 40,
+    "id": 38,
     "title": "How Members are using AI and Automation",
     "video_url": "https://youtu.be/Tdl-IiY75w8",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 41,
+    "id": 39,
     "title": "A Few Things that Every Manager should Know in Excel",
     "video_url": "https://youtu.be/oPGu6RGIAkU",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 42,
+    "id": 40,
     "title": "96 Challenges Session 1",
     "video_url": "https://youtu.be/fzchZCwBSgk",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 43,
+    "id": 41,
     "title": "96 Challenges Session 2",
     "video_url": "https://youtu.be/c9HWHrWEtqc",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 44,
+    "id": 42,
     "title": "96 Challenges Session 3",
     "video_url": "https://youtu.be/WNQtajlwrsg",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 45,
+    "id": 43,
     "title": "96 Challenges Session 4",
     "video_url": "https://youtu.be/vTRHcMktq0A",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 46,
+    "id": 44,
     "title": "How to Handle Errors in Power Query",
     "video_url": "https://youtu.be/I0dMjThzIXw",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 47,
+    "id": 45,
     "title": "96 Challenges Session 5",
     "video_url": "https://youtu.be/JpysPD32VGI",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 48,
+    "id": 46,
     "title": "96 Challenges Session 6",
     "video_url": "https://youtu.be/dH1tjlnkwWY",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 49,
+    "id": 47,
     "title": "How to use Obsidian for Second Brain",
     "video_url": "https://youtu.be/DUW7_lB8H2Y",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 50,
+    "id": 48,
     "title": "96 Challenges Session 7",
     "video_url": "https://youtu.be/PDs5hWc7ejM",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 51,
+    "id": 49,
     "title": "96 Challenges Session 8",
     "video_url": "https://youtu.be/bZUmj0HAGbA",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 52,
+    "id": 50,
     "title": "96 Challenges Session 9",
     "video_url": "https://youtu.be/n0qddLICuxk",
     "download_url": null,
     "resources": []
   },
   {
-    "id": 53,
+    "id": 51,
     "title": "How to solve Recursion & AI for Financial Modeling",
     "video_url": "https://youtu.be/j4DVEM7HTOg",
     "download_url": null,

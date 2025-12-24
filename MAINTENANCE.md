@@ -30,12 +30,15 @@ You don't need to touch the code to add content. Just follow this standard proce
         ```text
         52-The Title of My Session
         ```
+        The numeric prefix should match the folder number (e.g., `session_052` -> `52-...`).
 
-    *   **`urls.txt`** (Optional): Any extra links you want to share. Format is `Title: URL`.
+    *   **`urls.txt`** (Optional): Any extra links you want to share.
         ```text
         Official Doc: https://docs.microsoft.com
         Cool Tool: https://example.com
         ```
+        If the title contains a colon, use `Title | URL` or `Title<TAB>URL`.
+        Blank lines and lines starting with `#` are ignored.
 
     *   **`Files.zip`** (Optional): If you have files to share, just drop the zip file in the folder.
 

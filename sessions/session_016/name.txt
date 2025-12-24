@@ -1,1 +1,1 @@
-17-What the Heck is Inside My each _ in Power Query
+16-What the Heck is Inside My each _ in Power Query

@@ -63,16 +63,17 @@
     </main>
 
     <!-- Session Detail Modal -->
-    <div id="modal-overlay" class="modal-overlay hidden">
-        <div class="modal-content">
-            <button id="modal-close" class="modal-close">&times;</button>
+    <div id="modal-overlay" class="modal-overlay hidden" aria-hidden="true">
+        <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modal-title"
+            aria-describedby="modal-body" tabindex="-1">
+            <button id="modal-close" class="modal-close" aria-label="Close dialog">&times;</button>
             <div class="modal-header">
                 <span id="modal-id" class="modal-id">SESSION 000</span>
                 <h2 id="modal-title" class="modal-title">Session Title</h2>
             </div>
-            <div class="modal-body">
+            <div class="modal-body" id="modal-body">
                 <div class="modal-actions">
-                    <a id="modal-video" href="#" target="_blank" class="btn btn-primary">
+                    <a id="modal-video" href="#" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
                             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                             <polygon points="23 7 16 12 23 17 23 7"></polygon>
@@ -80,7 +81,8 @@
                         </svg>
                         Watch Video
                     </a>
-                    <a id="modal-download" href="#" target="_blank" class="btn btn-secondary hidden">
+                    <a id="modal-download" href="#" target="_blank" rel="noopener noreferrer"
+                        class="btn btn-secondary hidden">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
                             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                             <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>

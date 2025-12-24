@@ -1,1 +1,1 @@
-02-Conquering Brackets in Power Query
+2-Conquering Brackets in Power Query

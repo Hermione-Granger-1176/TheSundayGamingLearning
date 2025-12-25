@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const themeToggle = document.getElementById('theme-toggle');
     const noResults = document.getElementById('no-results');
     const htmlElement = document.documentElement;
+    const themeColorMeta = document.querySelector('meta[name="theme-color"]');
 
     // Modal Elements
     const modalOverlay = document.getElementById('modal-overlay');
@@ -29,6 +30,10 @@ document.addEventListener('DOMContentLoaded', () => {
         search: 'sessionsSearch',
         sort: 'sessionsSort'
     };
+    const THEME_COLORS = {
+        dark: '#202020',
+        light: '#f0f0f0'
+    };
     const sessionStore = {
         get(key) {
             try {
@@ -48,14 +53,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Theme Management
     const savedTheme = localStorage.getItem('theme') || 'dark';
-    htmlElement.setAttribute('data-theme', savedTheme);
+    applyTheme(savedTheme, false);
 
     themeToggle.addEventListener('click', () => {
         const currentTheme = htmlElement.getAttribute('data-theme');
         const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        htmlElement.setAttribute('data-theme', newTheme);
-        localStorage.setItem('theme', newTheme);
+        applyTheme(newTheme);
     });
+
+    function applyTheme(theme, persist = true) {
+        htmlElement.setAttribute('data-theme', theme);
+        if (persist) {
+            localStorage.setItem('theme', theme);
+        }
+        if (themeColorMeta) {
+            const fallback = THEME_COLORS.dark;
+            themeColorMeta.setAttribute('content', THEME_COLORS[theme] || fallback);
+        }
+    }
 
     // Initialize UI
     const savedSearch = sessionStore.get(STORAGE_KEYS.search) || '';

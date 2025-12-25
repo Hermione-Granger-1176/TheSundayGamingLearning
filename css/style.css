@@ -86,6 +86,7 @@ body {
     font-weight: 700;
     letter-spacing: -0.5px;
     background: linear-gradient(135deg, var(--color-dust-grey), var(--accent));
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -111,6 +112,14 @@ body {
     margin-bottom: 3rem;
     gap: 1rem;
     flex-wrap: wrap;
+}
+
+.footer {
+    margin-top: 3rem;
+    padding: 2rem 0;
+    text-align: center;
+    color: var(--text-secondary);
+    border-top: 1px solid var(--border-color);
 }
 
 .search-wrapper {

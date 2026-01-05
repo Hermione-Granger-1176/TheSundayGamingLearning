@@ -23,7 +23,6 @@ from __future__ import annotations
 
 import json
 import logging
-import os
 import re
 import sys
 from functools import lru_cache
@@ -44,7 +43,6 @@ logger = logging.getLogger(__name__)
 # Configuration constants
 SESSIONS_DIR = Path("sessions")
 JS_OUTPUT_FILE = Path("js/data.js")
-DEFAULT_GITHUB_REPO = "Hermione-Granger-1176/TheSundayGamingLearning"
 
 # File name constants
 VIDEO_FILE = "video.txt"
@@ -171,8 +169,7 @@ def _extract_session_data(folder: Path) -> SessionData:
     download_url = None
     zip_path = folder / ZIP_FILE
     if zip_path.exists():
-        repo = os.environ.get("GITHUB_REPOSITORY", DEFAULT_GITHUB_REPO)
-        download_url = f"https://raw.githubusercontent.com/{repo}/main/{zip_path.as_posix()}"
+        download_url = zip_path.as_posix()
 
     resources: list[ResourceLink] = []
     urls_path = folder / URLS_FILE

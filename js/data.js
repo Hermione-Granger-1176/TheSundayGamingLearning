@@ -15,14 +15,14 @@ window.SESSIONS_DATA = [
     "id": 2,
     "title": "Conquering Brackets in Power Query",
     "video_url": "https://youtu.be/KrNAjRrfxrI",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_002/Files.zip",
+    "download_url": "sessions/session_002/Files.zip",
     "resources": []
   },
   {
     "id": 3,
     "title": "The Power of Optional Parameters in Power Query",
     "video_url": "https://youtu.be/EHo-Jsqv7CA",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_003/Files.zip",
+    "download_url": "sessions/session_003/Files.zip",
     "resources": []
   },
   {
@@ -43,7 +43,7 @@ window.SESSIONS_DATA = [
     "id": 6,
     "title": "List TransformMany Function in Power Query",
     "video_url": "https://youtu.be/9jNV5JbhBwo",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_006/Files.zip",
+    "download_url": "sessions/session_006/Files.zip",
     "resources": [
       {
         "title": "Challenge Link",
@@ -62,21 +62,21 @@ window.SESSIONS_DATA = [
     "id": 8,
     "title": "Unleash the Magic of LAMBDA Function in Excel Session 1",
     "video_url": "https://youtu.be/v1BhR1B6GVY",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_008/Files.zip",
+    "download_url": "sessions/session_008/Files.zip",
     "resources": []
   },
   {
     "id": 9,
     "title": "Unleash the Magic of LAMBDA Function in Excel Session 2",
     "video_url": "https://youtu.be/I8c3OJRm9n4",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_009/Files.zip",
+    "download_url": "sessions/session_009/Files.zip",
     "resources": []
   },
   {
     "id": 10,
     "title": "Why I Love Records in Power Query",
     "video_url": "https://youtu.be/sKWNW5CRbTk",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_010/Files.zip",
+    "download_url": "sessions/session_010/Files.zip",
     "resources": []
   },
   {
@@ -90,49 +90,49 @@ window.SESSIONS_DATA = [
     "id": 12,
     "title": "Why Do I Save Before I Create in Excel",
     "video_url": "https://youtu.be/sOAm2E05fUQ",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_012/Files.zip",
+    "download_url": "sessions/session_012/Files.zip",
     "resources": []
   },
   {
     "id": 13,
     "title": "Text Manipulation with Splitters and Combiners in Power Query",
     "video_url": "https://youtu.be/BR3PAUcojNA",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_013/Files.zip",
+    "download_url": "sessions/session_013/Files.zip",
     "resources": []
   },
   {
     "id": 14,
     "title": "The Power of Rich Data Types and STOCKHISTORY Function",
     "video_url": "https://youtu.be/cTGRc65d-v0",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_014/Files.zip",
+    "download_url": "sessions/session_014/Files.zip",
     "resources": []
   },
   {
     "id": 15,
     "title": "Getting Hyper with Hyperlinks",
     "video_url": "https://youtu.be/UY9WTPxwbD8",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_015/Files.zip",
+    "download_url": "sessions/session_015/Files.zip",
     "resources": []
   },
   {
     "id": 16,
     "title": "What the Heck is Inside My each _ in Power Query",
     "video_url": "https://youtu.be/-Vx_S8hkD8A",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_016/Files.zip",
+    "download_url": "sessions/session_016/Files.zip",
     "resources": []
   },
   {
     "id": 17,
     "title": "Think Your Excel Formulas Are Right Check Again Part 1",
     "video_url": "https://youtu.be/zKH-uf_STFs",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_017/Files.zip",
+    "download_url": "sessions/session_017/Files.zip",
     "resources": []
   },
   {
     "id": 18,
     "title": "Think Your Excel Formulas Are Right Check Again Part 2",
     "video_url": "https://youtu.be/i_sEdHaCvp8",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_018/Files.zip",
+    "download_url": "sessions/session_018/Files.zip",
     "resources": []
   },
   {
@@ -153,7 +153,7 @@ window.SESSIONS_DATA = [
     "id": 21,
     "title": "50 Never Seen Tips and Tricks in Excel",
     "video_url": "https://youtu.be/xcQgUnSFfY8",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_021/Files.zip",
+    "download_url": "sessions/session_021/Files.zip",
     "resources": []
   },
   {
@@ -191,7 +191,7 @@ window.SESSIONS_DATA = [
     "id": 24,
     "title": "The Power of the FILTER Function in Excel",
     "video_url": "https://youtu.be/xoLerkdYIQo",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_024/Files.zip",
+    "download_url": "sessions/session_024/Files.zip",
     "resources": []
   },
   {
@@ -212,7 +212,7 @@ window.SESSIONS_DATA = [
     "id": 27,
     "title": "Tired of Merging Excel Files Manually? Automate It Now!",
     "video_url": "https://youtu.be/DK0SjoeiFlo",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_027/Files.zip",
+    "download_url": "sessions/session_027/Files.zip",
     "resources": []
   },
   {
@@ -226,28 +226,28 @@ window.SESSIONS_DATA = [
     "id": 29,
     "title": "Similarities between Excel and Power Query",
     "video_url": "https://youtu.be/FVWVinG_4Lw",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_029/Files.zip",
+    "download_url": "sessions/session_029/Files.zip",
     "resources": []
   },
   {
     "id": 30,
     "title": "How I Transitioned from Excel to Power Query",
     "video_url": "https://youtu.be/iLgtulGKY44",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_030/Files.zip",
+    "download_url": "sessions/session_030/Files.zip",
     "resources": []
   },
   {
     "id": 31,
     "title": "How to Get Totals with Conditions in Excel?",
     "video_url": "https://youtu.be/6T1t2J52Gds",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_031/Files.zip",
+    "download_url": "sessions/session_031/Files.zip",
     "resources": []
   },
   {
     "id": 32,
     "title": "How to use AFE for Managing Lambdas?",
     "video_url": "https://youtu.be/xGuE-jHGoZw",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_032/Files.zip",
+    "download_url": "sessions/session_032/Files.zip",
     "resources": []
   },
   {
@@ -288,7 +288,7 @@ window.SESSIONS_DATA = [
     "id": 36,
     "title": "Python in Excel Basics",
     "video_url": "https://youtu.be/emYb580PUq0",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_036/Files.zip",
+    "download_url": "sessions/session_036/Files.zip",
     "resources": [
       {
         "title": "The Python Standard Library",
@@ -308,7 +308,7 @@ window.SESSIONS_DATA = [
     "id": 37,
     "title": "Lists in Python",
     "video_url": "https://youtu.be/C-8qznsTkTY",
-    "download_url": "https://raw.githubusercontent.com/Hermione-Granger-1176/TheSundayGamingLearning/main/sessions/session_037/Files.zip",
+    "download_url": "sessions/session_037/Files.zip",
     "resources": []
   },
   {

@@ -376,7 +376,7 @@ window.SESSIONS_DATA = [
   },
   {
     "id": 47,
-    "title": "How to use Obsidian for Second Brain",
+    "title": "How to use Obsidian for Second Brain Part 1",
     "video_url": "https://youtu.be/DUW7_lB8H2Y",
     "download_url": null,
     "resources": []
@@ -406,6 +406,20 @@ window.SESSIONS_DATA = [
     "id": 51,
     "title": "How to solve Recursion & AI for Financial Modeling",
     "video_url": "https://youtu.be/j4DVEM7HTOg",
+    "download_url": null,
+    "resources": []
+  },
+  {
+    "id": 52,
+    "title": "How to use Obsidian for Second Brain Part 2",
+    "video_url": "https://youtu.be/DQw_PKx54P4",
+    "download_url": null,
+    "resources": []
+  },
+  {
+    "id": 53,
+    "title": "My AI Tech Stack - Codex, Claude Code, VS Code...",
+    "video_url": "https://youtu.be/qyBVBXU7D5E",
     "download_url": null,
     "resources": []
   }
